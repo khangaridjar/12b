@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Headphones",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://i5.walmartimages.com/seo/VILINICE-Noise-Cancelling-Headphones-Wireless-Bluetooth-Over-Ear-Headphones-with-Microphone-Black-Q8_b994b99c-835f-42fc-8094-9f6be0f9273b.be59955399cdbd1c25011d4a4251ba9b.jpeg"
+},
+  {
+    "id": 2,
+    "name": "Mouse",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmZuZIYpxb4xHTi3HncWdPfJIlYmWP8LjROQ&s"
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://cdn.mos.cms.futurecdn.net/hf2CQvHr9KNtKuUSDkeQVH.jpg"
+  },
+  {
+    "id": 4,
+    "name": "laptop",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-plus/db16255/media-gallery/non-touch/laptop-dell-plus-db16255nt-ice-bl-fpr-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=979&qlt=100,1&resMode=sharp2&size=979,804&chrss=full"
+  },
+  {
+    "id": 5,
+    "name": "laptop",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://m.media-amazon.com/images/I/510uTHyDqGL.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mac",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-card-40-studio-display-202203_FMT_WHH?wid=506&hei=472&fmt=p-jpg&qlt=95&.v=dVp4cllZZXF6dklEWE1MaXJrMFFsVm5PR0hFVWJUUHBiQndxYkdwN21YeXNJV0g4UDc2eThGYkhJVWE0VzhXdnZIY1ZzcGduNVp1c0VVMkpHREFIQWlsOG1PN3FBRzN3cEphZ2ZrZllTNGJUaFA0ZjAxMjUwL2w2TVB0WU16eXI"
+  },
+  {
+    "id": 7,
+    "name": "keyboard",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://cdn11.bigcommerce.com/s-g9br3/images/stencil/2048x2048/products/845/4575/Mech-kb_Front_WP__11847.1659653762.jpg?c=2"
+  },
+  {
+    "id": 8,
+    "name": "add",
+    "description": "Lorem ipsum",
+    "price": "1000$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9l1FQ4nx1d09U7afxNddrcplEs6Y1x_8Zmg&s"
+  }
+
+]
